@@ -8,5 +8,3 @@ Location / RageUI v2 / Optimisé 0.00ms / Full Configurable
 ### Screenshot :
 
 ![screenshot](https://cdn.discordapp.com/attachments/658236178268684291/928384089860489276/unknown.png)
-![screenshot](https://cdn.discordapp.com/attachments/658236178268684291/928386714106462218/unknown.png)
-
