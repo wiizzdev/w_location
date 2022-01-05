@@ -3,7 +3,7 @@ Location / RageUI v2 / Optimisé 0.00ms / Full Configurable
 
 #### Discord : https://discord.gg/VpYP58ZjmD
 
-#### Preview : https://www.youtube.com/watch?v=n0p3ilbEXV4
+#### Preview : https://youtu.be/zkjNS-DsVJE
 
 ### Screenshot :
 
