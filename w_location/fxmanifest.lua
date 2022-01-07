@@ -19,7 +19,3 @@ server_scripts {
     "server/server.lua",
     "@mysql-async/lib/MySQL.lua"
 }
-
-dependencies {
-    "esx_license"
-}
