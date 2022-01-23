@@ -241,7 +241,7 @@ end
 function retourcam() -- function pour faire revenir la caméra sur le joueur
     RenderScriptCams(false, true, 500, true, true)
     SetCamActive(cam, false)
-    DestroyCam(cam, true)
+    DestroyAllCams(true)
     DisplayRadar(false) -- mettre true si votre radar est activé par défaut sur votre serveur
 end
 
