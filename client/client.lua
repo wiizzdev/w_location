@@ -5,10 +5,10 @@ Citizen.CreateThread(function()
 	end
 end)
 
-local mainMenu = RageUI.CreateMenu("", "Location")
-local voiture = RageUI.CreateSubMenu(mainMenu, "", "Voitures")
-local moto = RageUI.CreateSubMenu(mainMenu, "", "Motos")
-local velo = RageUI.CreateSubMenu(mainMenu, "", "Vélos")
+local mainMenu = RageUI.CreateMenu("Location", "MENU")
+local voiture = RageUI.CreateSubMenu(mainMenu, "Voitures", "MENU")
+local moto = RageUI.CreateSubMenu(mainMenu, "Motos", "MENU")
+local velo = RageUI.CreateSubMenu(mainMenu, "Vélos", "MENU")
 local open,Index = false,1
 
 mainMenu.Closed = function() open = false KillCam() FreezeEntityPosition(GetPlayerPed(-1), false) end
